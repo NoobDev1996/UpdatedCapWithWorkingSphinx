@@ -1,0 +1,1 @@
+Reuploaded to a new respository, added the configuration for sphinx documentation. And now the build folder is present after I built please have a look and tell me if it is right now. I also added a zipped version of the project to my dropbox so you dont have to clone the git repo.
